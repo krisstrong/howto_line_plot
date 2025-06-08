@@ -30,9 +30,6 @@ We start with a default plot and progressively refine it by stripping it down, a
 2. Open `notebook.ipynb` in Jupyter Lab or Jupyter Notebook.
 3. Run each cell step-by-step to explore the plot's evolution.
 
-## 📸 Output Preview
-
-![Final Plot Example](https://via.placeholder.com/600x300?text=Final+Polished+Plot)
 
 ---
 
